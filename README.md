@@ -119,7 +119,7 @@ class FizzBuzz {
 
 - [X] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
 
-If you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
+Tf you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
 by right-clicking the `src` directory in the `Project` tab and near the bottom of the context menu
 you will see `Mark Directory as`. Hover that and then select `Sources Root`. Then run the file.
 The program may take a second to compile and run, but then you should see that it prints out the first 100 outputs of
